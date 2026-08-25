@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "currencies": {
+      "id": "currencies",
+      "name": "World Currencies",
+      "status": "scaffold",
+      "source": "ISO 4217"
+    }
+  },
+  "searchableFields": []
+}
